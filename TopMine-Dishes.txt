@@ -1,0 +1,183 @@
+pizza was good	1410
+pasta dishes	1404
+garlic bread	995
+garlic knots	924
+Caesar salad	727
+spaghetti and meatballs	660
+chicken parm	611
+cheese pizza	460
+thin crust pizza	455
+margherita pizza	439
+chicken marsala	435
+caprese salad	434
+chicken parmesan	411
+white pizza	367
+short rib	324
+pizza and wings	297
+pepperoni pizza	279
+fried calamari	257
+pork chop	255
+chocolate cake	254
+eggplant parm	250
+antipasto salad	224
+mashed potatoes	219
+shrimp scampi	218
+osso bucco	217
+sauce and cheese	213
+meatball sandwich	212
+stuffed mushrooms	210
+fettuccine alfredo	204
+deep dish pizza	204
+mozzarella cheese	203
+cheese ravioli	201
+grilled chicken	193
+chicken wings	193
+beef carpaccio	181
+pizza cookie	180
+Pane Bianco	178
+margarita pizza	177
+seafood pasta	177
+pizza toppings	174
+minestrone soup	173
+pizza  thin crust	171
+penne pasta	167
+NY pizza	165
+chicken parmigiana	161
+NY style pizza	159
+salad and pasta	157
+angel hair pasta	156
+panna cotta	150
+spinach salad	150
+bread pudding	149
+lobster bisque	147
+lamb chops	147
+ordered the lasagna	146
+crab cakes	146
+green beans	146
+sausage pizza	144
+Osso Buco	143
+Chicago style	143
+ordered the calamari	142
+veal chop	140
+roasted peppers	139
+Cesar salad	138
+french fries	137
+chicken dish	135
+chicken alfredo	135
+bread and olive oil	134
+fried zucchini	133
+chicken salad	131
+arugula salad	131
+angel hair	130
+flat bread	130
+cheese bread	130
+whipped cream	130
+duck and foie gras ravioli	128
+chicken piccata	128
+linguine with clams	128
+calamari appetizer	127
+rice balls	127
+garlic butter	126
+hot wings	125
+stuffed pizza	125
+veal marsala	124
+filet mignon	122
+Greek salad	122
+beer and wine	119
+oil and vinegar	119
+chocolate chip	118
+pepperoni  sausage	118
+meat balls	115
+pork belly	113
+Oyster Bar	113
+eggplant parmigiana	112
+mushroom pizza	112
+sausage and pepperoni	106
+buffalo mozzarella	105
+veal parm	103
+salad sandwich	98
+linguini with clams	97
+meat lovers	97
+mushroom ravioli	96
+dessert  tiramisu	95
+Chicago pizza	95
+butternut squash ravioli	93
+peanut butter	89
+roasted chicken	87
+veal parmesan	86
+Pizza Margherita	85
+vanilla ice cream	83
+ordered the gnocchi	83
+fried ravioli	81
+tomato mozzarella	81
+sausage and mushroom	80
+Pizza Bianco	80
+fried mozzarella	80
+cured meats	80
+foie gras	79
+butternut squash	79
+beef sandwich	78
+Parmigiano Reggiano	77
+meat lasagna	76
+chicken pesto	76
+creamy polenta	75
+balsamic vinaigrette	74
+chicken tenders	73
+hot sauce	73
+shrimp pasta	73
+lemon chicken	73
+marsala sauce	72
+dark chocolate	71
+mushroom risotto	71
+meatball sliders	71
+salad and breadsticks	70
+night club	70
+chicken pasta	70
+pizza and calzones	70
+cheese cake	69
+spaghetti bolognese	69
+pizza with pepperoni	68
+zucca chips	67
+baked rigatoni	67
+spinach artichoke dip	67
+pizza with sausage	67
+mozzarella  tomato	65
+Fritto Misto	65
+garlic rolls	65
+grilled salmon	64
+Italian soda	63
+veal dish	62
+smoked salmon	62
+lobster tail	62
+pear salad	61
+Frutti Di Mare	61
+pepperoni and mushroom	61
+Sicilian pizza	61
+artichoke dip	60
+red pepper flakes	60
+gluten free pasta	60
+Kobe beef	60
+wedge salad	60
+side of spaghetti	60
+focaccia bread	59
+Neapolitan pizza	59
+mussels  clams	59
+Di Mare	59
+bruschetta appetizer	58
+San Marzano tomatoes	58
+cheese slices	58
+steak salad	57
+spaghetti with marinara	57
+soup  salad and breadsticks	56
+smoked mozzarella	56
+grilled veggies	56
+fresh garlic	56
+turkey sandwich	56
+Chilean Sea Bass	55
+BBQ chicken pizza	55
+BBQ chicken	53
+antipasto platter	52
+cheesy garlic bread	52
+Philly Cheesesteak	51
+sea scallops	51
+seafood linguine	51
