@@ -1,0 +1,162 @@
+C:\coursera\topicalPhrases>win_run.bat
+Data preparing...
+First pass: finding rare words...
+Second pass: do preprocessing...
+
+---------------------------
+The number of documents: 207449
+The size of the vocabulary: 15294
+Total tokens: 2557235
+Minsup = 3
+Time used: 73.732
+Start partition on punctuations...
+ Partition by punctuation complete...
+loading data...
+loading complete.
+Previous vocabulary size: 15294
+start turning into integer file using the orignal pipe
+Post vocabulary size: 15294
+Time used: 28.39
+Continuous Pattern Mining ...
+Continuous mining starts...
+______________
+Mining contiguous patterns
+Ending Mining of Patterns : 1
+Documents remaining : 558095
+Ending Mining of Patterns : 2
+Documents remaining : 406928
+Ending Mining of Patterns : 3
+Documents remaining : 271999
+Ending Mining of Patterns : 4
+Documents remaining : 83062
+Ending Mining of Patterns : 5
+Documents remaining : 8023
+Ending Mining of Patterns : 6
+Documents remaining : 804
+Ending Mining of Patterns : 7
+Documents remaining : 348
+Ending Mining of Patterns : 8
+Documents remaining : 218
+Continuous mining done!
+______________
+Frequent continuous pattern number: 167455      with min_sup = 3
+
+_____________
+Total Document Num: 137690
+
+Partitioned docs: 0
+Partitioned docs: 10000
+Partitioned docs: 20000
+Partitioned docs: 30000
+Partitioned docs: 40000
+Partitioned docs: 50000
+Partitioned docs: 60000
+Partitioned docs: 70000
+Partitioned docs: 80000
+Partitioned docs: 90000
+Partitioned docs: 100000
+Partitioned docs: 110000
+Partitioned docs: 120000
+Partitioned docs: 130000
+Time in seconds for mining: 35
+Phrase LDA
+Initializing LDA Values
+Initializing Complete
+Running Inference
+Iteration :     0
+                Perplexity: 1301.8738054450623
+                Perplexity: NaN
+Iteration :     10
+Iteration :     20
+Iteration :     30
+Iteration :     40
+Iteration :     50
+Iteration :     60
+Iteration :     70
+Iteration :     80
+Iteration :     90
+Iteration :     100
+                Perplexity: 1028.0905546429815
+                Perplexity: NaN
+Iteration :     110
+Iteration :     120
+Iteration :     130
+Iteration :     140
+                alphaSum: 4.7857743308968725
+                betaSum: 611.7425518246038
+Iteration :     150
+Iteration :     160
+Iteration :     170
+Iteration :     180
+Iteration :     190
+                alphaSum: 3.5749299187449006
+                betaSum: 795.9448059018163
+Iteration :     200
+                Perplexity: 970.9955957375057
+                Perplexity: NaN
+Iteration :     210
+Iteration :     220
+Iteration :     230
+Iteration :     240
+                alphaSum: 3.035312452573873
+                betaSum: 876.9250215534862
+Iteration :     250
+Iteration :     260
+Iteration :     270
+Iteration :     280
+Iteration :     290
+                alphaSum: 2.7645148446907113
+                betaSum: 918.7117197249081
+Iteration :     300
+                Perplexity: 953.3563743399458
+                Perplexity: NaN
+Iteration :     310
+Iteration :     320
+Iteration :     330
+Iteration :     340
+                alphaSum: 2.601927926612479
+                betaSum: 942.9283441204003
+Iteration :     350
+Iteration :     360
+Iteration :     370
+Iteration :     380
+Iteration :     390
+                alphaSum: 2.5195471266595666
+                betaSum: 955.1359304656933
+Iteration :     400
+                Perplexity: 948.025858605411
+                Perplexity: NaN
+Iteration :     410
+Iteration :     420
+Iteration :     430
+Iteration :     440
+                alphaSum: 2.4851454079139814
+                betaSum: 957.4859322421755
+Iteration :     450
+Iteration :     460
+Iteration :     470
+Iteration :     480
+Iteration :     490
+                alphaSum: 2.4890068153485814
+                betaSum: 956.138473481914
+Gibbs sampling done:
+                Perplexity: 945.9277876872353
+                Perplexity: NaN
+total time: 185.612
+AlphaSum = 2.4890068153485814   BetaSum = 956.138473481914
+
+C:\coursera\topicalPhrases>C:\Python27\python C:\coursera\topicalPhrases\Topical
+Phrases\unMapper.py C:\coursera\topicalPhrases\TopicalPhrases\input_dataset\inpu
+t_vocFile C:\coursera\topicalPhrases\TopicalPhrases\input_dataset\input_stemMapp
+ing C:\coursera\topicalPhrases\TopicalPhrases\input_dataset_output\unmapped_phra
+ses C:\coursera\topicalPhrases\TopicalPhrases\input_dataset_output\input_partiti
+onedTraining.txt C:\coursera\topicalPhrases\TopicalPhrases\input_dataset_output\
+newPartition.txt
+
+
+C:\coursera\topicalPhrases>cd output
+
+
+C:\coursera\topicalPhrases\output>C:\Python27\python C:\coursera\topicalPhrases\
+output\topPhrases.py
+
